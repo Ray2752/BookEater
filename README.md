@@ -37,7 +37,4 @@ A seamless user experience was designed by integrating modern technologies acros
 - JWT for auth
 - WebSocket / Socket.IO for real-time features
 
----
-
-## 📦 Folder Structure
 
